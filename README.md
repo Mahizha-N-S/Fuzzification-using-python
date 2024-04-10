@@ -1,5 +1,7 @@
 # Fuzzification-using-python
 
+## Problem statement
+
 A fuzzy controller is used to maintain the speed of the vehicle. The system has two fuzzy inputs: Speed difference and acceleration and one fuzzy output: Throttle control.
 
 Given Rules:
@@ -9,3 +11,8 @@ Given Rules:
 
 
 Calculate the throttle control for speed difference 100 and acceleration 70.
+
+## Solution:
+## 1.Fuzzification
+## 2.Rule Based
+## 3.Defuzzification
